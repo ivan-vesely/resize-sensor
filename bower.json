@@ -1,0 +1,9 @@
+{
+  "name": "resize-sensor",
+  "version": "1.0.0",
+  "main": [
+    "./ResizeSensor.js"
+  ],
+  "ignore": [],
+  "dependencies": {}
+}
